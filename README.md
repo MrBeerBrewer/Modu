@@ -16,3 +16,26 @@ Tailwind CSS
 
 ### Notes
 Built using ChatGPT and a traditional LAMP-style stack.
+
+## Quick start
+
+1. Clone repo
+2. Place project in local PHP server (XAMPP / Laragon / PHP built-in server)
+3. Open index.php
+4. Edit JSON inside /data
+5. Click Export to generate HTML
+
+## Example JSON
+
+{
+  "title": "My Page",
+  "sections": [
+    {
+      "type": "hero",
+      "data": {
+        "heading": "Hello Modu",
+        "subheading": "JSON powered pages"
+      }
+    }
+  ]
+}

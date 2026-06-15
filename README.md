@@ -1,5 +1,5 @@
 # Modu
-A modular PHP engine that generates HTML pages from JSON-based templates.
+A lightweight JSON-driven PHP page builder that renders modular components into static HTML.
 
 ## Structure
 data/ – JSON files used to build pages
